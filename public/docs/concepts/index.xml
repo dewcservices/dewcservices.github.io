@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DEWC Cyber Body of Knowledge – Concepts</title>
-    <link>https://dewcservices.github.io/docs/concepts/</link>
+    <link>/docs/concepts/</link>
     <description>Recent content in Concepts on DEWC Cyber Body of Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://dewcservices.github.io/docs/concepts/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/concepts/index.xml" rel="self" type="application/rss+xml" />
     
     
       
