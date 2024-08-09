@@ -1,5 +1,25 @@
 site_name: DEWCBok
+site_url: https://dewcservices.github.io/
+theme:
+  name: material
+extra_css:
+- assets/extra.css
+extra_javascript:
+- assets/extra.js
 nav:
 - Home: index.md
-- About: about.md
-theme: readthedocs
+- 'Languages / Frameworks':
+  - 'Python': Languages_Frameworks/python.md
+  - 'Go': Languages_Frameworks/go.md
+  - 'Typescript': Languages_Frameworks/typescript.md
+  - 'Angular': Languages_Frameworks/angular.md
+- 'Tools':
+  - 'Linux': Tools/linux.md
+  - 'Bash': Tools/bash.md
+  - 'SSH': Tools/ssh.md
+- 'Concepts':
+  - 'Requirements Gathering': Concepts/requirements-gathering.md
+  - 'Agile': Concepts/agile.md
+  - 'Documentation': Concepts/documentation.md
+- 'General Resoures':
+  - 'Software Engineering': General_Resoures/software-engineering.md
