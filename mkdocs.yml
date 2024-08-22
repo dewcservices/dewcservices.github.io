@@ -1,4 +1,4 @@
-site_name: DEWCBok
+site_name: DEWCBok&trade;
 site_url: https://dewcservices.github.io/
 theme:
   name: material
@@ -6,8 +6,11 @@ extra_css:
 - assets/extra.css
 extra_javascript:
 - assets/extra.js
+plugins:
+- open-in-new-tab
 nav:
-- Home: index.md
+- 'Home': index.md
+- 'Upcoming Events / Conferences / Training Courses': upcoming.md
 - 'Languages / Frameworks':
   - 'Python': Languages_Frameworks/python.md
   - 'Go': Languages_Frameworks/go.md
@@ -17,9 +20,11 @@ nav:
   - 'Linux': Tools/linux.md
   - 'Bash': Tools/bash.md
   - 'SSH': Tools/ssh.md
+  - 'VSCode': Tools/vscode.md
+  - 'Dev Containers': Tools/devcontainers.md
 - 'Concepts':
   - 'Requirements Gathering': Concepts/requirements-gathering.md
   - 'Agile': Concepts/agile.md
   - 'Documentation': Concepts/documentation.md
 - 'General Resoures':
-  - 'Software Engineering': General_Resoures/software-engineering.md
+  - 'Software Engineering': General_Resources/software-engineering.md
