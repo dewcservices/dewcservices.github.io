@@ -2,62 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://dewcservices.github.io/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/upcoming/</loc>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Concepts/agile/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Concepts/documentation/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Concepts/requirements-gathering/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/General_Resources/software-engineering/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Languages_Frameworks/angular/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Languages_Frameworks/go/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Languages_Frameworks/python/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Languages_Frameworks/typescript/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Tools/bash/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/devcontainers/</loc>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Tools/linux/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Tools/ssh/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/vscode/</loc>
+         <lastmod>2024-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
