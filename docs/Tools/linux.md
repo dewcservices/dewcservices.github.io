@@ -1,3 +1,7 @@
+---
+tags:
+
+---
 # Linux
 
-[Resource](https://www.tutorialspoint.com/ubuntu/ubuntu_flavors.htm) 
+[Resource - Ubuntu Flavors](https://www.tutorialspoint.com/ubuntu/ubuntu_flavors.htm) 

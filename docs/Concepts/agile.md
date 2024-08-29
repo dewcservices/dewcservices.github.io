@@ -1,3 +1,7 @@
+---
+tags:
+
+---
 # Agile
 
-[Resource](https://se-education.org/learningresources/contents/projectManagement/AgileDevelopment.html) 
+[Resource - Agile Development](https://se-education.org/learningresources/contents/projectManagement/AgileDevelopment.html) 

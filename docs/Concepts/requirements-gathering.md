@@ -1,3 +1,7 @@
+---
+tags:
+
+---
 # Requirements Gathering
 
-[Resource](https://www.tutorialspoint.com/software_engineering/software_requirements.htm)
+[Resource - Software Requirements](https://www.tutorialspoint.com/software_engineering/software_requirements.htm)

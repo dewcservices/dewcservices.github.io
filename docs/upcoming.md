@@ -2,8 +2,8 @@
 
 | Date | Event | Location | Link |
 | --- | --- | --- | --- |
-| 15-Oct-2024 | KubeDay | Melbourne | https://dev.events/conferences/kube-day-australia-nl2tizq9 |
-| 23-Nov-2024 | DDD Adelaide | Adelaide | https://dddadelaide.com/ |
+| 15-Oct-2024 | KubeDay | Melbourne | [https://dev.events/conferences/kube-day-australia-nl2tizq9](https://dev.events/conferences/kube-day-australia-nl2tizq9) |
+| 23-Nov-2024 | DDD Adelaide | Adelaide | [https://dddadelaide.com/](https://dddadelaide.com/) |
 
 <!---
 ## DEWC Resources

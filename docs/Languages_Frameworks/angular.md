@@ -1,10 +1,14 @@
-# Angular
-
-[Tutorial](https://angular.io/tutorial)  
-[Video Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko)
+---
+tags:
 
 ---
-[Angular and Module Federation Tutorial](https://github.com/angular-architects/module-federation-plugin/blob/main/libs/mf/tutorial/tutorial.md)
+# Angular
+
+[Tutorial - Build your first Angular app](https://angular.dev/tutorials/first-app)  
+[Video Tutorial - Angular Tutorial for Beginners: Learn Angular & TypeScript](https://www.youtube.com/watch?v=k5E2AVpwsko)
+
+---
+[Tutorial - Getting Started with Webpack Module Federation and Angular](https://github.com/angular-architects/module-federation-plugin/blob/main/libs/mf/tutorial/tutorial.md)
 
 The above tutorial will guide you to get a sample project working with Angular and Module Federation. Ensure you take note of the following:
 

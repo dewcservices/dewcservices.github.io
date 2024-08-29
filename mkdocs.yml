@@ -7,24 +7,7 @@ extra_css:
 extra_javascript:
 - assets/extra.js
 plugins:
+- search
 - open-in-new-tab
-nav:
-- 'Home': index.md
-- 'Upcoming Events / Conferences / Training Courses': upcoming.md
-- 'Languages / Frameworks':
-  - 'Python': Languages_Frameworks/python.md
-  - 'Go': Languages_Frameworks/go.md
-  - 'Typescript': Languages_Frameworks/typescript.md
-  - 'Angular': Languages_Frameworks/angular.md
-- 'Tools':
-  - 'Linux': Tools/linux.md
-  - 'Bash': Tools/bash.md
-  - 'SSH': Tools/ssh.md
-  - 'VSCode': Tools/vscode.md
-  - 'Dev Containers': Tools/devcontainers.md
-- 'Concepts':
-  - 'Requirements Gathering': Concepts/requirements-gathering.md
-  - 'Agile': Concepts/agile.md
-  - 'Documentation': Concepts/documentation.md
-- 'General Resoures':
-  - 'Software Engineering': General_Resources/software-engineering.md
+- tags:
+    tags_file: tags.md
