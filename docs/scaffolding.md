@@ -11,19 +11,19 @@ src/
         pages/
             home/
                 home.component.ts|html|css
-            recipe/
-                create-recipe/
-                    create-recipe.component.ts|html|css
-                read-recipe/
-                    read-recipe.component.ts|html|css
-                update-recipe/
-                    update-recipe.component.ts|html|css
-                favourite-recipe/
-                    favourite-recipe.component.ts|html|css
+            item/
+                create-item/
+                    create-item.component.ts|html|css
+                read-item/
+                    read-item.component.ts|html|css
+                update-item/
+                    update-item.component.ts|html|css
+                favourite-item/
+                    favourite-item.component.ts|html|css
         services/
-            recipe-service.ts
+            item-service.ts
         interfaces/
-            recipe-interface.ts
+            item-interface.ts
         app.component.ts|html|css
         app.routes.ts
 ```
@@ -32,16 +32,16 @@ src/
 ```
 requirements.txt
 app/
-    controllers/
+    controller/
         item_controller.py
-    dtos/
+    dto/
         item_dto.py
-    models/
+    model/
         item.py
-    repositories/
+    repository/
         item_repository.py
         iitem_repository.py
-    services
+    service/
         item_service.py
         iitem_service.py
     __init__.py
@@ -51,6 +51,30 @@ app/
 ```
 
 ## Java
-https://github.com/dewcservices/SW_GDP/tree/feat/challenge2/challenge2
+```
+src/
+    test/java/com.example.application/
+    main/
+        resources/
+        java/com.example.application
+            adapter/
+                ItemAdapter.java
+            controller/
+                ItemController.java
+            dto/
+                ItemDto.java
+            entity/
+                Item.java
+            repository/
+                ItemRepository.java
+                ItemDao.java
+                interface/
+                    IItemDao.java
+            service/
+                ItemService.java
+                interface/
+                    IItemService.java
+            ExampleApplication.java
+```
 
-https://github.com/dewcservices/RestAPIChallenge2/tree/main/restAPIchallge2
+[Layers Explanation](https://github.com/dewcservices/SpringBoot-Temple/blob/main/SoftwareEngineeringChallenge/LayersExplanation.md)

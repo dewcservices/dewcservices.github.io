@@ -1,4 +1,4 @@
-# DEWCBok - DEWC Body of Knowledge
+# DEWCBoK - DEWC Body of Knowledge
 
 Using GitHub Pages and MKDocs.
 
