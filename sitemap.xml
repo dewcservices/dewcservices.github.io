@@ -2,77 +2,232 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://dewcservices.github.io/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/forums/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/pipeline/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/scaffolding/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/upcoming/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Concepts/agile/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dewcservices.github.io/Concepts/documentation/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <loc>https://dewcservices.github.io/Concepts/crudrest/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dewcservices.github.io/Concepts/requirements-gathering/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <loc>https://dewcservices.github.io/Concepts/devops/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Concepts/functionalprog/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Concepts/machinelearning/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Concepts/microservices/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Concepts/systemarch/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/General_Resources/documentation/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/General_Resources/quality/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/General_Resources/requirements-gathering/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/General_Resources/software-engineering/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Languages_Frameworks/angular/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Languages_Frameworks/elk_stack/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Languages_Frameworks/go/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Languages_Frameworks/java/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Languages_Frameworks/kafka/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Languages_Frameworks/mongodb/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Languages_Frameworks/neo4j/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Languages_Frameworks/postgresql/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Languages_Frameworks/python/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Languages_Frameworks/svelte/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Languages_Frameworks/typescript/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/ansible/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Tools/bash/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/ci_cd/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Tools/devcontainers/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/devops/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/docker/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/git/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/gitlab/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/kubernetes/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Tools/linux/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/markdown/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/mermaid/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/regex/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/selenium/</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/sonarqube/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Tools/ssh/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/vim/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dewcservices.github.io/Tools/vscode/</loc>
-         <lastmod>2024-08-22</lastmod>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/tags/</loc>
+         <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
