@@ -4,7 +4,7 @@ tags:
 ---
 # Functional Programming
 
-[Resource - Functional Programming](https://se-education.org/learningresources/contents/functionalProgramming/intro.html) 
+[Resource - An Introduction to Functional Programming](https://se-education.org/learningresources/contents/functionalProgramming/intro.html) 
 
 ## Cyber Forum Content
 
