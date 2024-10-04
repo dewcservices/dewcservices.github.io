@@ -5,5 +5,5 @@ tags:
 # Troubleshooting / Debugging
 
 [Tutorial - Debugging in VS Code](https://code.visualstudio.com/docs/editor/debugging)  
-[Resource - What is Debugging](https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/)
-[Resource - 10 Debugging Tips for Beginners](https://blog.hartleybrody.com/debugging-code-beginner/)
+[Resource - What is Debugging](https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/)  
+[Resource - 10 Debugging Tips for Beginners](https://blog.hartleybrody.com/debugging-code-beginner/)  

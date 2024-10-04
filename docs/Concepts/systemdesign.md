@@ -8,5 +8,4 @@ tags:
 
 ## Design Patterns
 [Tutorial - Software Design Patterns](https://www.geeksforgeeks.org/software-design-patterns/?ref=outind)  
-[Resource - Design patterns](https://refactoring.guru/design-patterns) - 
-This is a very good resource.  
+[Resource - Design patterns](https://refactoring.guru/design-patterns)  

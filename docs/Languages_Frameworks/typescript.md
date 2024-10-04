@@ -4,4 +4,4 @@ tags:
 ---
 # Typescript
 
-[Tutorial - TypeScript](https://www.w3schools.com/typescript/index.php)
+[Tutorial - TypeScript](https://www.w3schools.com/typescript/index.php)  

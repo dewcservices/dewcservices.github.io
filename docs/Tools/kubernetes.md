@@ -4,7 +4,7 @@ tags:
 ---
 # Kubernetes
 
-[Tutorial - Kubernetes](https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=outind)
+[Tutorial - Kubernetes](https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=outind)  
 [Tutorials - Kubernetes Documentation](https://kubernetes.io/docs/tutorials/hello-minikube/) - 
 Kubernetes tutorials beginning with Hello Minikube, you don't necessarily need to do them all, just ones that look useful for you.  
 [Resource - Kubernetes Documentation Concepts](https://kubernetes.io/docs/concepts/) - 

@@ -4,7 +4,7 @@ tags:
 ---
 # VSCode
 
-[Video Tutorial - VSCode](https://code.visualstudio.com/docs/getstarted/introvideos)
+[Video Tutorial - VSCode](https://code.visualstudio.com/docs/getstarted/introvideos)  
 
 ## Connecting VSCode running on Windows, to an Azure VM
 
