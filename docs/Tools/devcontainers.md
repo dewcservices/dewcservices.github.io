@@ -5,6 +5,8 @@ tags:
 # Dev Containers
 
 [Tutorial - Developing inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)  
+[Resource - Dev Containers Overview](https://containers.dev/overview)  
+[Resource - Using Images, Dockerfiles, and Docker Compose for your Dev Container Environment](https://containers.dev/guide/dockerfile)  
 
 ## Creating a new project using Dev Containers in VSCode
 

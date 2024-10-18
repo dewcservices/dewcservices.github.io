@@ -4,6 +4,7 @@ tags:
 ---
 # Functional Programming
 
+[Resource - Functional Programming Paradigm](https://www.geeksforgeeks.org/functional-programming-paradigm/)  
 [Resource - An Introduction to Functional Programming](https://se-education.org/learningresources/contents/functionalProgramming/intro.html)  
 
 ## Cyber Forum Content
