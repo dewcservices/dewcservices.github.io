@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dewcservices.github.io/Concepts/debugging/</loc>
+         <lastmod>2024-10-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dewcservices.github.io/Concepts/devops/</loc>
          <lastmod>2024-10-18</lastmod>
          <changefreq>daily</changefreq>
@@ -72,6 +77,11 @@
     </url>
     <url>
          <loc>https://dewcservices.github.io/Concepts/peerreview/</loc>
+         <lastmod>2024-10-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Concepts/projectmanagement/</loc>
          <lastmod>2024-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -201,6 +211,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dewcservices.github.io/Tools/aws/</loc>
+         <lastmod>2024-10-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dewcservices.github.io/Tools/ci_cd/</loc>
          <lastmod>2024-10-18</lastmod>
          <changefreq>daily</changefreq>
@@ -227,6 +242,11 @@
     </url>
     <url>
          <loc>https://dewcservices.github.io/Tools/gitlab/</loc>
+         <lastmod>2024-10-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dewcservices.github.io/Tools/helm/</loc>
          <lastmod>2024-10-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
