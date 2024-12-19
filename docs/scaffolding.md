@@ -49,6 +49,7 @@ app/
     dependencies.py
     main.py
 ```
+[Python Example Code](https://github.com/dewcservices/SW_GDP/tree/feat/py/py-example/app)  
 
 ## Java
 ```
@@ -76,6 +77,6 @@ src/
                     IItemService.java
             ExampleApplication.java
 ```
-
+[Java Example Code](https://github.com/dewcservices/SW_GDP/tree/feat/challenge2/challenge2/src/main/java/com/example/demo)  
 
 [Software Layers Explanation](https://github.com/dewcservices/SpringBoot-Temple/blob/main/SoftwareEngineeringChallenge/LayersExplanation.md)  

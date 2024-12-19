@@ -17,3 +17,4 @@ tags:
 ## Python FastAPI
 [Tutorial - FastAPI](https://www.tutorialspoint.com/fastapi/index.htm)  
 [Tutorial - How to Create a REST API With FastAPI and MongoDB](https://www.makeuseof.com/rest-api-fastapi-mongodb/)  
+[Resource - Structuring a FastAPI App](https://medium.com/@ketansomvanshi007/structuring-a-fastapi-app-an-in-depth-guide-cdec3b8f4710)  
