@@ -2,9 +2,9 @@
 
 | Date | Event | Description | Location | Link |
 | --- | --- | --- | --- | --- |
-| 20-Jan  -  22-Jan 2025 | Everything Open | Open Technologies\n\nK8s Capture the Flag\nhttps://2025.everythingopen.au/schedule/presentation/113/Everything Open 2025 | Presentation: Capture the Flag | Adelaide | [https://2025.everythingopen.au/](https://2025.everythingopen.au/) |
+| 20-Jan to 22-Jan 2025 | Everything Open | Open Technologies<br /><br />[K8s Capture the Flag Hackathon](https://2025.everythingopen.au/schedule/presentation/113/) | Adelaide | [https://2025.everythingopen.au/](https://2025.everythingopen.au/) |
 | 18-Mar 2025 | Programmable | Software Engineering Conference | Melbourne | [https://www.programmable.tech/](https://www.programmable.tech/) |
-| 29-Apr  -  1-May 2025 | NDC Melbourne | Software Engineering 1 day workshop, 2 day conference | Melbourne | [https://ndcmelbourne.com/](https://ndcmelbourne.com/) |
+| 29-Apr to 1-May 2025 | NDC Melbourne | Software Engineering 1 day Workshop, 2 day Conference | Melbourne | [https://ndcmelbourne.com/](https://ndcmelbourne.com/) |
 <!--| date | event | desc | location | [link title](link url) |-->
 
 ## DEWC Resources
