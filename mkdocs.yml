@@ -1,4 +1,4 @@
-site_name: DEWCBoK&trade;
+site_name: DEWCBoKS
 site_url: https://dewcservices.github.io/
 theme:
   name: material
@@ -9,5 +9,5 @@ extra_javascript:
 plugins:
 - search
 - open-in-new-tab
-- tags:
-    tags_file: tags.md
+#- tags:
+#    tags_file: tags.md

@@ -3,7 +3,9 @@
 | Date | Event | Description | Location | Link |
 | --- | --- | --- | --- | --- |
 | 20-Jan to 22-Jan 2025 | Everything Open | Open Technologies<br /><br />[K8s Capture the Flag Hackathon](https://2025.everythingopen.au/schedule/presentation/113/) | Adelaide | [https://2025.everythingopen.au/](https://2025.everythingopen.au/) |
+| 17-Mar to 19-Mar 2025 | Australian Cyber Conference | Cyber security practices | Canberra | [https://canberra2025.cyberconference.com.au/](https://canberra2025.cyberconference.com.au/) |
 | 18-Mar 2025 | Programmable | Software Engineering Conference | Melbourne | [https://www.programmable.tech/](https://www.programmable.tech/) |
+| 18-Mar 2025 | Oracle CloudWorld Tour | Latest cloud technology innovations | Sydney | [https://www.oracle.com/au/cloudworld-tour/](https://www.oracle.com/au/cloudworld-tour/) |
 | 29-Apr to 1-May 2025 | NDC Melbourne | Software Engineering 1 day Workshop, 2 day Conference | Melbourne | [https://ndcmelbourne.com/](https://ndcmelbourne.com/) |
 <!--| date | event | desc | location | [link title](link url) |-->
 
