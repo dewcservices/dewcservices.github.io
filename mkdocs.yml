@@ -3,11 +3,11 @@ site_url: https://dewcservices.github.io/
 theme:
   name: material
 extra_css:
-- assets/extra.css
+  - assets/extra.css
 extra_javascript:
-- assets/extra.js
+  - assets/extra.js
 plugins:
-- search
-- open-in-new-tab
+  - search
+  - open-in-new-tab
 #- tags:
 #    tags_file: tags.md
