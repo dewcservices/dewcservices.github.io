@@ -1,7 +1,7 @@
 ---
 tags:
-
 ---
+
 # Design Patterns
 
-[Resource - Design Patterns](https://refactoring.guru/design-patterns)  
+[Resource - Design Patterns](https://refactoring.guru/design-patterns)

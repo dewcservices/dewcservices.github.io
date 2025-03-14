@@ -1,7 +1,7 @@
 ---
 tags:
-
 ---
+
 # Acceptance Criteria
 
 [Resource - Acceptance Criteria](https://resources.scrumalliance.org/Article/need-know-acceptance-criteria)
