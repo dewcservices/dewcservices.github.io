@@ -455,6 +455,27 @@
   
   
     <li class="md-nav__item">
+      <a href="../../Concepts/digitalsecurity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Digital Security and Cryptography
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../Concepts/documentation/" class="md-nav__link">
         
   
@@ -691,6 +712,27 @@
   
   <span class="md-ellipsis">
     Requirements Gathering
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Concepts/softwaredesign/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Software Design
   </span>
   
 
@@ -964,6 +1006,27 @@
   
   <span class="md-ellipsis">
     Bash
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Languages_Frameworks/c%23net/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    C# .NET
   </span>
   
 
@@ -1753,22 +1816,45 @@
 <h1 id="dev-containers">Dev Containers</h1>
 <p><a href="https://code.visualstudio.com/docs/devcontainers/containers">Tutorial - Developing inside a Container</a><br />
 <a href="https://containers.dev/overview">Resource - Dev Containers Overview</a><br />
-<a href="https://containers.dev/guide/dockerfile">Resource - Using Images, Dockerfiles, and Docker Compose for your Dev Container Environment</a>  </p>
+<a href="https://containers.dev/guide/dockerfile">Resource - Using Images, Dockerfiles, and Docker Compose for your Dev Container Environment</a></p>
 <h2 id="creating-a-new-project-using-dev-containers-in-vscode">Creating a new project using Dev Containers in VSCode</h2>
 <ol>
-<li>Install the <code>Dev Containers</code> VSCode extension on the instance connected to the environment you want to create your project, for example, a VM or your local environment.</li>
-<li>Create a new directory for your trial project (or clone the repo you want to use for your project into a new directory in your projects directory), then click F1 and select “File: Open Folder…” and select your new directory. </li>
-<li>Click F1 again and select “Dev Containers: Add Dev Container Configuration Files…”. Select “Node.js &amp; TypeScript” (or whatever you want really) and make the desired selections for your new project. VSCode will create a <code>.devcontainer</code> directory and a <code>devcontainer.json</code> config file for you. </li>
-<li>When prompted, select “Reopen in Container” to start the project or click F1 and select “Dev Containers: Rebuild and Reopen in Container”.</li>
-<li>Your VSCode instance is now connected to your new container, which is running everything you selected for your new project. Run commands in your Terminal window on the VSCode instance to test it out. You can run the same commands on a different VSCode instance to see that what is installed inside your Dev Container is contained in the container and not installed elsewhere in your system.</li>
-<li>If you want to save your Dev Containers config file for future use, you need to select “Add Dev Container Configuration Files” and not “New Dev Container” which will open up a temporary work space for you.</li>
+<li>Install the <code>Dev Containers</code> VSCode extension on the instance connected to
+   the environment you want to create your project, for example, a VM or your
+   local environment.</li>
+<li>Create a new directory for your trial project (or clone the repo you want to
+   use for your project into a new directory in your projects directory), then
+   click F1 and select “File: Open Folder…” and select your new directory.</li>
+<li>Click F1 again and select “Dev Containers: Add Dev Container Configuration
+   Files…”. Select “Node.js &amp; TypeScript” (or whatever you want really) and make
+   the desired selections for your new project. VSCode will create a
+   <code>.devcontainer</code> directory and a <code>devcontainer.json</code> config file for you.</li>
+<li>When prompted, select “Reopen in Container” to start the project or click F1
+   and select “Dev Containers: Rebuild and Reopen in Container”.</li>
+<li>Your VSCode instance is now connected to your new container, which is running
+   everything you selected for your new project. Run commands in your Terminal
+   window on the VSCode instance to test it out. You can run the same commands
+   on a different VSCode instance to see that what is installed inside your Dev
+   Container is contained in the container and not installed elsewhere in your
+   system.</li>
+<li>If you want to save your Dev Containers config file for future use, you need
+   to select “Add Dev Container Configuration Files” and not “New Dev Container”
+   which will open up a temporary work space for you.</li>
 </ol>
 <h2 id="tips-for-creating-a-new-angular-project-using-dev-containers">Tips for creating a new Angular project using Dev Containers</h2>
 <ol>
-<li>Follow the instructions above to create a new project. Select project type “Node.js &amp; TypeScript” and when you are offered additional features to install, select “Angular CLI”. (I also like to install “Common Utilities”. You will need to configure this yourself and set the non-root user to “node”.)</li>
-<li>You now have an empty Dev Containers project with Angular and Git installed at the CLI. You will not have a skeleton Angular project yet. </li>
-<li>To create a skeleton Angular project at this point, you can create it manually using the CLI and ng commands.</li>
-<li>Ensure you update the <code>devcontainer.json</code> config file to open the correct port and install, build and serve the angular project when creating the container, by adding the following lines</li>
+<li>Follow the instructions above to create a new project. Select project type
+   “Node.js &amp; TypeScript” and when you are offered additional features to
+   install, select “Angular CLI”. (I also like to install “Common Utilities”.
+   You will need to configure this yourself and set the non-root user to
+   “node”.)</li>
+<li>You now have an empty Dev Containers project with Angular and Git installed
+   at the CLI. You will not have a skeleton Angular project yet.</li>
+<li>To create a skeleton Angular project at this point, you can create it
+   manually using the CLI and ng commands.</li>
+<li>Ensure you update the <code>devcontainer.json</code> config file to open the correct
+   port and install, build and serve the angular project when creating the
+   container, by adding the following lines</li>
 </ol>
 <pre><code>&quot;forwardPorts&quot;: [4200],
 &quot;postCreateCommand&quot;: &quot;npm install&quot;,

@@ -453,6 +453,27 @@
   
   
     <li class="md-nav__item">
+      <a href="../../Concepts/digitalsecurity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Digital Security and Cryptography
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../Concepts/documentation/" class="md-nav__link">
         
   
@@ -689,6 +710,27 @@
   
   <span class="md-ellipsis">
     Requirements Gathering
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Concepts/softwaredesign/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Software Design
   </span>
   
 
@@ -962,6 +1004,27 @@
   
   <span class="md-ellipsis">
     Bash
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Languages_Frameworks/c%23net/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    C# .NET
   </span>
   
 
@@ -1779,27 +1842,35 @@
 
 
 <h1 id="vscode">VSCode</h1>
-<p><a href="https://code.visualstudio.com/docs/getstarted/introvideos">Video Tutorial - VSCode</a>  </p>
+<p><a href="https://code.visualstudio.com/docs/getstarted/introvideos">Video Tutorial - VSCode</a></p>
 <h2 id="connecting-vscode-running-on-windows-to-an-azure-vm">Connecting VSCode running on Windows, to an Azure VM</h2>
 <p>Install VSCode onto your machine from the Microsoft Store.</p>
 <h3 id="starting-and-stopping-the-vm">Starting and Stopping the VM</h3>
 <ol>
 <li>Install the <code>Thunder Client</code> VSCode extension.</li>
-<li>Create a new request with the Azure URL, it will look something like this: <code>https://prod-29.australiasoutheast.logic.azure.com:443/workflows/&lt;hash_number&gt;/triggers/manual/paths/invoke?api-version=2016-10-01&amp;sp=%2Ftriggers%2Fmanual%2Frun&amp;sv=1.0&amp;sig=AHJ-&lt;hash_number&gt;</code></li>
-<li>The query parameters will fill themselves in, change the request from GET to POST and add the following body:
-<code>{"action": "start", "vm": "&lt;your vm name&gt;"}</code></li>
+<li>Create a new request with the Azure URL, it will look something like this:
+   <code>https://prod-29.australiasoutheast.logic.azure.com:443/workflows/&lt;hash_number&gt;/triggers/manual/paths/invoke?api-version=2016-10-01&amp;sp=%2Ftriggers%2Fmanual%2Frun&amp;sv=1.0&amp;sig=AHJ-&lt;hash_number&gt;</code></li>
+<li>The query parameters will fill themselves in, change the request from GET to
+   POST and add the following body:
+   <code>{"action": "start", "vm": "&lt;your vm name&gt;"}</code></li>
 <li>Click “Send” and wait for the OK response.</li>
-<li>Right click on the POST activity item in the left list and rename the item to “Start Azure VM”.</li>
-<li>Right click on the POST activity item again and select duplicate. </li>
-<li>Update one of the items in the list, change the name to “Stop Azure VM” and update the body to replace “stop” instead of “start”.</li>
-<li>You will now have these start and stop calls available to you anytime you open Thunder Client in VSCode. Remember to stop the VM at the end of the day or when you no longer need it running.</li>
+<li>Right click on the POST activity item in the left list and rename the item to
+   “Start Azure VM”.</li>
+<li>Right click on the POST activity item again and select duplicate.</li>
+<li>Update one of the items in the list, change the name to “Stop Azure VM” and
+   update the body to replace “stop” instead of “start”.</li>
+<li>You will now have these start and stop calls available to you anytime you
+   open Thunder Client in VSCode. Remember to stop the VM at the end of the day
+   or when you no longer need it running.</li>
 </ol>
 <h3 id="connecting-to-the-vm">Connecting to the VM</h3>
 <ol>
 <li>Create a new directory <code>C:\Users\&lt;your username&gt;\.ssh</code></li>
-<li>Follow the instructions in <a href="../ssh/">SSH - Generate Key-Pair Instructions</a> to create a new ssh key-pair in your new directory.</li>
+<li>Follow the instructions in <a href="../ssh/">SSH - Generate Key-Pair Instructions</a>
+   to create a new ssh key-pair in your new directory.</li>
 <li>Ensure the public key is added into your Azure VM.</li>
-<li>Create a new file <code>C:\Users\&lt;your username&gt;\.ssh\config</code> with the following contents:</li>
+<li>Create a new file <code>C:\Users\&lt;your username&gt;\.ssh\config</code> with the following
+   contents:</li>
 </ol>
 <pre><code>Host azure-vm
     HostName &lt;your Azure host IP&gt;
@@ -1808,9 +1879,12 @@
 </code></pre>
 <ol>
 <li>Install the <code>Remote – SSH</code> VSCode extension.</li>
-<li>Click the green <code>&gt;&lt;</code> symbol at the bottom left of the VSCode window, select “Connect to Host…” and your added host should appear in the list.</li>
-<li>Select “azure-vm” and wait for a new window to open and select the correct options.</li>
-<li>Your VSCode instance is now connected to the VM and you will be able to browse files and create a new project on the VM.</li>
+<li>Click the green <code>&gt;&lt;</code> symbol at the bottom left of the VSCode window, select
+   “Connect to Host…” and your added host should appear in the list.</li>
+<li>Select “azure-vm” and wait for a new window to open and select the correct
+   options.</li>
+<li>Your VSCode instance is now connected to the VM and you will be able to
+   browse files and create a new project on the VM.</li>
 </ol>
 
 
