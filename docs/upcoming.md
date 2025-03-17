@@ -1,7 +1,7 @@
 # Upcoming Events and Conferences
 
 | Date | Event | Description | Location | Link |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 17-Mar to 19-Mar 2025 | Australian Cyber Conference | Cyber security practices | Canberra | [https://canberra2025.cyberconference.com.au/](https://canberra2025.cyberconference.com.au/) |
 | 18-Mar 2025 | Programmable | Software Engineering Conference | Melbourne | [https://www.programmable.tech/](https://www.programmable.tech/) |
 | 18-Mar 2025 | Oracle CloudWorld Tour | Latest cloud technology innovations | Sydney | [https://www.oracle.com/au/cloudworld-tour/](https://www.oracle.com/au/cloudworld-tour/) |
