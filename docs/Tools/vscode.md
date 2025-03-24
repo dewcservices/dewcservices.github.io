@@ -4,7 +4,8 @@ tags:
 
 # VSCode
 
-[Video Tutorial - VSCode](https://code.visualstudio.com/docs/getstarted/introvideos)
+[Video Tutorial - VSCode](https://code.visualstudio.com/docs/getstarted/introvideos)  
+[Video Tutorial - Debugging in VSCode 7 minutes](https://code.visualstudio.com/docs/introvideos/debugging)
 
 ## Connecting VSCode running on Windows, to an Azure VM
 

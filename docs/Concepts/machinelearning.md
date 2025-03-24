@@ -5,6 +5,7 @@ tags:
 # Machine Learning
 
 [Tutorial - Machine Learning](https://www.geeksforgeeks.org/machine-learning/?ref=outind)  
+[Video Tutorial - ML for Everybody 4 hours](https://www.youtube.com/watch?v=i_LwzRVP7bg)  
 [Resource - Start with Large Language Models](https://github.com/louisfb01/start-llms) -
 This may be too big.
 
