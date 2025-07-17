@@ -2,6 +2,8 @@ site_name: DEWCBoKS Cyber
 site_url: https://dewcservices.github.io/
 theme:
   name: material
+  features:
+    - search.suggest
 extra_css:
   - assets/extra.css
 extra_javascript:
