@@ -4,8 +4,10 @@ tags:
 
 # Vim Keybindings
 
-[Tips and Tricks](https://dev.to/ansonh/10-vs-code-vim-tricks-to-boost-your-productivity-1b0n)  
-[More Tips and Trickts](https://dev.to/ansonh/10-more-vs-code-vim-tricks-to-become-a-faster-coder-ndi)
+[Resource - Tips and Tricks](https://dev.to/ansonh/10-vs-code-vim-tricks-to-boost-your-productivity-1b0n)  
+[Resource - More Tips and Trickts](https://dev.to/ansonh/10-more-vs-code-vim-tricks-to-become-a-faster-coder-ndi)  
+[Tutorial - Learn Vim For the Last Time](https://danielmiessler.com/blog/vim)  
+[Tutorial - Vim Adventures](https://vim-adventures.com/)
 
 ## Cyber Forum Content
 
